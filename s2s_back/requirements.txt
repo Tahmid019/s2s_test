@@ -1,0 +1,7 @@
+os
+whisper
+gtts
+flask
+ffmpeg-python
+openai-whisper
+flask_cors

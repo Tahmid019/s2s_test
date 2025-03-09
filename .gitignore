@@ -1,0 +1,71 @@
+s2s/node_modules
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+s2s/.svelte-kit
+s2s/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+
+
+
+# Virtual environment
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.whl
+
+# Environment variables and config
+.env
+*.env
+
+# Dependency directories
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+
+# Logs and caches
+logs/
+*.log
+.npm/
+.cache/
+coverage/
+dist/
+
+# Build and output directories
+build/
+out/
+.svelte-kit/
+*.tsbuildinfo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+
+# Misc
+*.swp
+createMod.py
+
