@@ -99,6 +99,5 @@ Feel free to fork the repository and submit pull requests with improvements or b
 
 ---
 
-## License
-This project is licensed under [MIT License](LICENSE).
+
 
